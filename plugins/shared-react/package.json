@@ -1,5 +1,5 @@
 {
-  "name": "@janus-idp/shared-react",
+  "name": "@oandriie/shared-react",
   "version": "2.15.0",
   "main": "src/index.ts",
   "types": "src/index.ts",
