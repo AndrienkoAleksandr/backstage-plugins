@@ -1,5 +1,5 @@
 ---
-"@oandriie/shared-react": major
+"@oandriie/shared-react": minor
 ---
 
 Major
