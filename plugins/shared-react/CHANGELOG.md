@@ -1,5 +1,14 @@
 ## @janus-idp/shared-react [2.10.0](https://github.com/janus-idp/backstage-plugins/compare/@janus-idp/shared-react@2.9.0...@janus-idp/shared-react@2.10.0) (2024-08-02)
 
+## 2.15.1
+
+### Patch Changes
+
+- 30a987d: test
+- d99ca7b: test
+- 10cbb81: test
+- 6294c53: test changes
+
 ## 2.15.0
 
 ### Minor Changes
